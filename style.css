@@ -70,7 +70,7 @@ Card
   background-color: var(--clr-light);
   border-radius: var(--border-radius);
   max-width: 90%;
-  min-width: 90%;
+  min-width: 300px;
 }
 
 .card-contents {
