@@ -4,8 +4,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+- [Overview](#overview) - [The challenge](#the-challenge)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -29,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://ablueblaze.github.io/FM-001-product-card/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Demo](https://your-live-site-url.com)
+- [Git repo](https://ablueblaze.github.io/FM-001-product-card/)
 
 ## My process
   - General Review of project
@@ -53,10 +52,12 @@ Mostly this was review for me. Though I always count practice with CSS as a majo
 
 ### Continued development
 
-My idea to add some continued developement for this project was to make all the class names as generic as possible. 
+My idea to add some continued development for this project was to make all the class names as generic as possible. 
 
 For example, instead of perfume-name I used product-name. Should help with the continued use in the future.
 
 ## Author
 
-Me!!!
+### Blaze Scott
+
+[linkedin](https://www.linkedin.com/in/blaze-scott-3672b891/)
